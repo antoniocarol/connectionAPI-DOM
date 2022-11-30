@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cross-fetch": "^3.1.5",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "frontend-requisicoes-assincronismo-exercicio",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./js/api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniocarol/frontend-requisicoes-assincronismo-exercicio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniocarol/frontend-requisicoes-assincronismo-exercicio/issues"
+  },
+  "homepage": "https://github.com/antoniocarol/frontend-requisicoes-assincronismo-exercicio#readme"
+}
